@@ -1,3 +1,9 @@
+# Mantis static webpage
+This is the source code for the mantis webpage, if you are looking for the android project please go to [Mantis Gitlab](https://code.cs.umanitoba.ca/comp3350-winter2023/a01-g06-mantis)
+
+
+
+# Theme Credit
 # Creative Theme for Jekyll
 
 A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
