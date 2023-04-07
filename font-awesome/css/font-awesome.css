@@ -62,7 +62,7 @@
 }
 .fa-border {
   padding: .2em .25em .15em;
-  border: solid 0.08em #eeeeee;
+  border: solid 0.08em #ffffff;
   border-radius: .1em;
 }
 .pull-right {
@@ -168,6 +168,9 @@
 }
 /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
+.fa-lambda:before {
+  content: "\f66e";
+}
 .fa-glass:before {
   content: "\f000";
 }
