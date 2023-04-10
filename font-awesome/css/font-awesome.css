@@ -597,6 +597,9 @@
 .fa-github-square:before {
   content: "\f092";
 }
+.fa-gitlab:before {
+  content: "\f296";
+}
 .fa-upload:before {
   content: "\f093";
 }
